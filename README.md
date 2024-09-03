@@ -11,5 +11,4 @@ This project demonstrates how to use PostgreSQL with the Neon database platform.
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/neon-postgres-project.git
-   cd neon-postgres-project
+   git clone https://github.com/Mona-Jalilvand/Neon_PostgreSQL.git
