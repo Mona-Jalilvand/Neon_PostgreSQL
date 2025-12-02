@@ -1,7 +1,7 @@
 # Neon PostgreSQL Project
 
 ## Overview
-This project demonstrates how to use PostgreSQL with the Neon database platform. It includes schema definitions, sample queries, and setup scripts.
+This project is a first step to self-learn PostgreSQL and demonstrates how to use PostgreSQL with the Neon database platform. It includes schema definitions, sample queries, and setup scripts.
 
 ## Features
 - Database schema for storing employee information.
